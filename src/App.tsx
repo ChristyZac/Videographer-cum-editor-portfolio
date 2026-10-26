@@ -12,10 +12,10 @@ import videoTwo from "./videos/2.mp4";
 import videoThree from "./videos/3.mp4";
 import videoFour from "./videos/4.mp4";
 import videoFive from "./videos/5.mp4";
-import videoSix from "./videos/6.mp4";
+// import videoSix from "./videos/6.mp4";
 import videoSeven from "./videos/7.mp4";
-import videoEight from "./videos/8.mp4";
-import videoNine from "./videos/9.mp4";
+// import videoEight from "./videos/8.mp4";
+// import videoNine from "./videos/9.mp4";
 
 type Project = {
   title: string
